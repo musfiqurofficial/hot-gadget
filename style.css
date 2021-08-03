@@ -1,0 +1,41 @@
+#main_menu li{
+    margin-right: 30px;
+}
+li:last-child{
+    margin-right: 0 !important;
+}
+
+.btn-sty{
+    background-color: black;
+    padding: 8px 20px !important;
+}
+.carousel-indicators{
+    bottom: -100px;
+}
+
+#indicato-color{
+    background-image: linear-gradient(to right, rgb(255, 168, 55) , rgb(255, 136, 0));
+    
+}
+.cd{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px lightgrey;
+}
+.fcd{
+    border: none;
+    border-radius: 5px 20px 5px 30px;
+    box-shadow: 5px 5px 20px lightgrey;
+}
+.fcd2{
+    border: none;
+    border-radius: 20px 5px 30px 5px;
+    box-shadow: 5px 5px 20px lightgrey;
+}
+.hr{
+    margin-top: 10px;
+    border: none;
+    border-radius: 20px;
+    padding: 2px;
+    width: 150px;
+}
